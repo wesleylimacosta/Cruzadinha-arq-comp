@@ -1,0 +1,21 @@
+﻿cruzadinha 
+
+
+
+
+1- Componente do computador que concentra as principais operações (sigla)? CPU
+2- Circuito digital que realiza operações lógicas (sigla). ULA
+3- Memória para armazenamento de pequena quantidade de informação, posições de memórias, um tipo de variável. REGISTRADORES
+4- Memória de leitura. ROM
+5- Memória volátil, que armazena os arquivos temporariamente. RAM 
+6- Tipo de chip de memória de computador que mantém seus dados quando a energia é desligada. EPROM
+7- Armazenamento periférico, onde dispositivos externos ou mídia ajudam a gerenciar grandes quantidades de informações. MEMÓRIA DE MASSA        
+8- Dispositivo de armazenamento não volátil. FLASH
+9- Método que permite que um dispositivo de entrada e saída envie ou receba dados diretamente da memória principal. DMA
+10- Entrada de controle de muitos circuitos integrados, como chips de memória, permitindo ativar ou desativar o circuito (sigla). CS
+11- Arquitetura de barramento de computador usada para transferir dados. ADDRESS BUS
+12- Conector ou conjunto de fios que fornece transporte para dados. DATA BUS
+13- Processador multipropósito que oferece um desempenho sólido em jogos, navegação web e tarefas básicas. i5
+14- Processador para jogos de alta performance, criação de conteúdo, edição de arquivos multimidiáticos e aplicativos especializados. i7
+15- Processador com dois núcleos. DUAL CORE
+16- Processador com quatro núcleos. QUAD CORE
